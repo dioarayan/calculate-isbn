@@ -73,5 +73,6 @@ button:hover {
 
 #result {
   color: red;
+  text-decoration: underline;
 }
 </style>
